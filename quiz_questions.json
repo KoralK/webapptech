@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What does 'FE' stand for in web application architecture?",
+        "options": ["Front Exchange", "File Explorer", "Front End", "File Encoder"],
+        "answers": [2]
+    },
+    {
+        "question": "Which component of web application architecture directly interacts with users?",
+        "options": ["Database", "Back End", "Front End", "API Gateway"],
+        "answers": [2]
+    },
+    {
+        "question": "In a monolithic architecture, how are the components of the application organized?",
+        "options": ["Spread across multiple services", "In separate databases", "In a single codebase", "Across multiple platforms"],
+        "answers": [2]
+    },
+    {
+        "question": "Which architecture involves breaking down an application into small microservices?",
+        "options": ["Monolithic", "Distributed", "Front-End Only", "Database-Centric"],
+        "answers": [1]
+    },
+    {
+        "question": "What does 'REST' stand for in REST API?",
+        "options": ["Real-time Efficient State Transfer", "Representational State Transfer", "Regular System Transfer", "Responsive Server Transfer"],
+        "answers": [1]
+    },
+    {
+        "question": "Which HTTP method is typically used to retrieve data in a REST API?",
+        "options": ["POST", "DELETE", "PUT", "GET"],
+        "answers": [3]
+    },
+    {
+        "question": "What is the primary purpose of CDN caching?",
+        "options": ["Data Encryption", "Faster Content Delivery", "Data Storage", "User Authentication"],
+        "answers": [1]
+    },
+    {
+        "question": "In Event Driven Architecture, what triggers an action?",
+        "options": ["Polling", "Scheduled Tasks", "Events", "API Calls"],
+        "answers": [2]
+    },
+    {
+        "question": "Which component of web application architecture handles business logic?",
+        "options": ["Front End", "Database", "Back End", "CDN"],
+        "answers": [2]
+    },
+    {
+        "question": "What does 'DB' stand for in web application architecture?",
+        "options": ["Dashboard", "Database", "Data Block", "Debug"],
+        "answers": [1]
+    },
+    {
+        "question": "Which architecture is typically easier to scale: Monolithic or Distributed?",
+        "options": ["Monolithic", "Distributed", "Both are equally scalable", "Neither is scalable"],
+        "answers": [1]
+    },
+    {
+        "question": "Which HTTP method is used to update existing data in a REST API?",
+        "options": ["GET", "POST", "PUT", "DELETE"],
+        "answers": [2]
+    },
+    {
+        "question": "What is the main advantage of using a CDN?",
+        "options": ["Data Encryption", "User Authentication", "Reduced Server Load", "Database Management"],
+        "answers": [2]
+    },
+    {
+        "question": "In Event Driven Architecture, what component responds to events?",
+        "options": ["Producers", "Consumers", "Databases", "APIs"],
+        "answers": [1]
+    },
+    {
+        "question": "Which component of web application architecture stores data?",
+        "options": ["Front End", "Back End", "Database", "API Gateway"],
+        "answers": [2]
+    },
+    {
+        "question": "In a REST API call flow, what represents the requested or sent data?",
+        "options": ["Endpoint", "Header", "Payload", "Method"],
+        "answers": [2]
+    },
+    {
+        "question": "Which of the following is NOT a typical HTTP method in REST API?",
+        "options": ["FETCH", "POST", "GET", "DELETE"],
+        "answers": [0]
+    },
+    {
+        "question": "What is the primary function of a CDN in web architecture?",
+        "options": ["Data Storage", "User Registration", "Faster Content Delivery to Users", "Data Processing"],
+        "answers": [2]
+    },
+    {
+        "question": "In Event Driven Architecture, what initiates the process?",
+        "options": ["Consumers", "Events", "Responses", "Producers"],
+        "answers": [1]
+    },
+    {
+        "question": "Which architecture is more suitable for a small application with limited features?",
+        "options": ["Monolithic", "Distributed", "Event-Driven", "Database-Centric"],
+        "answers": [0]
+    }
+]
