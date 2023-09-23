@@ -198,6 +198,107 @@
             "question": "Which of the following best describes the principle of 'encapsulation' in the OSI model?",
             "options": ["Bundling data with new headers at each layer", "Unpacking data at each layer", "Encrypting data for security", "Connecting different networks together"],
             "answers": [0]
-        }
-    ]
+        },
+            {
+                "question": "What does 'FE' stand for in web application architecture?",
+                "options": ["Front Exchange", "File Explorer", "Front End", "File Encoder"],
+                "answers": [2]
+            },
+            {
+                "question": "Which component of web application architecture directly interacts with users?",
+                "options": ["Database", "Back End", "Front End", "API Gateway"],
+                "answers": [2]
+            },
+            {
+                "question": "In Bash scripting, what is the purpose of the 'echo' command?",
+                "options": ["To repeat commands", "To display a message", "To listen for input", "To terminate a script"],
+                "answers": [1]
+            },
+            {
+                "question": "Which command in PowerShell retrieves the content of a file?",
+                "options": ["Get-File", "Read-File", "Open-File", "Get-Content"],
+                "answers": [3]
+            },
+            {
+                "question": "What is the primary configuration file for Ansible called?",
+                "options": ["ansible.cfg", "config.yml", "ansible.json", "setup.cfg"],
+                "answers": [0]
+            },
+            {
+                "question": "Which symbol is used to comment out a line in a Bash script?",
+                "options": ["//", "#", "/*", "--"],
+                "answers": [1]
+            },
+            {
+                "question": "In PowerShell, how do you list all the items in a directory?",
+                "options": ["List-Item", "Get-Item", "Dir", "Show-Item"],
+                "answers": [2]
+            },
+            {
+                "question": "Which module in Ansible is used to copy files?",
+                "options": ["file", "copy", "transfer", "send"],
+                "answers": [1]
+            },
+            {
+                "question": "What does 'chmod' command do in Bash?",
+                "options": ["Change mode of a file", "Check memory", "Change directory", "Check modifications"],
+                "answers": [0]
+            },
+            {
+                "question": "In PowerShell, which cmdlet is used to fetch information about a command?",
+                "options": ["Get-Command", "Info-Command", "Help", "Describe-Command"],
+                "answers": [0]
+            },
+            {
+                "question": "Which Ansible module is used to execute shell commands on targets?",
+                "options": ["exec", "run", "shell", "command"],
+                "answers": [2]
+            },
+            {
+                "question": "Which command in Bash gives the current directory?",
+                "options": ["cd", "dir", "ls", "pwd"],
+                "answers": [3]
+            },
+            {
+                "question": "In PowerShell, how do you stop a running process?",
+                "options": ["Stop-Process", "Kill-Process", "Terminate-Process", "End-Process"],
+                "answers": [0]
+            },
+            {
+                "question": "Which file format does Ansible primarily use for its playbooks?",
+                "options": ["JSON", "XML", "YAML", "HTML"],
+                "answers": [2]
+            },
+            {
+                "question": "In Bash, which command is used to search for a pattern in a file?",
+                "options": ["find", "search", "grep", "locate"],
+                "answers": [2]
+            },
+            {
+                "question": "Which PowerShell cmdlet is used to create a new directory?",
+                "options": ["New-Directory", "Create-Directory", "New-Item", "Add-Directory"],
+                "answers": [2]
+            },
+            {
+                "question": "In Ansible, what is a reusable set of Ansible tasks called?",
+                "options": ["Module", "Role", "Function", "Method"],
+                "answers": [1]
+            },
+            {
+                "question": "Which command in Bash is used to display the end of a file?",
+                "options": ["head", "tail", "end", "last"],
+                "answers": [1]
+            },
+            {
+                "question": "In PowerShell, how do you retrieve a list of all installed modules?",
+                "options": ["Get-Module", "List-Module", "Show-Module", "Find-Module"],
+                "answers": [0]
+            },
+            {
+                "question": "Which Ansible directive is used to define variables?",
+                "options": ["vars", "variables", "set", "define"],
+                "answers": [0]
+            }
+        ]
+        
     
