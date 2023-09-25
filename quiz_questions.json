@@ -298,7 +298,170 @@
                 "question": "Which Ansible directive is used to define variables?",
                 "options": ["vars", "variables", "set", "define"],
                 "answers": [0]
-            }
-        ]
+            },
+    
+            {
+                "question": "Which HTTP method is used to retrieve data from a server without making any changes?",
+                "options": ["GET", "POST", "PUT", "DELETE"],
+                "answers": [0]
+            },
+            {
+                "question": "Which HTTP method is primarily used to submit data to be processed to a specified resource?",
+                "options": ["GET", "POST", "PUT", "DELETE"],
+                "answers": [1]
+            },
+            {
+                "question": "What does the HTTP 404 error code signify?",
+                "options": ["Server Error", "Not Found", "Forbidden", "Bad Request"],
+                "answers": [1]
+            },
+            {
+                "question": "Which HTTP status code indicates that the request was successful?",
+                "options": ["404", "500", "200", "403"],
+                "answers": [2]
+            },
+            {
+                "question": "Which HTTP method is used to update an existing resource or create it if it doesn't exist?",
+                "options": ["GET", "POST", "PUT", "DELETE"],
+                "answers": [2]
+            },
+            {
+                "question": "What does the HTTP 403 error code indicate?",
+                "options": ["Server Error", "Not Found", "Forbidden", "Bad Request"],
+                "answers": [2]
+            },
+            {
+                "question": "Which HTTP status code indicates a server-side error and that the server failed to fulfill a valid request?",
+                "options": ["404", "500", "200", "403"],
+                "answers": [1]
+            },
+            
+                {
+                    "question": "Which command would you use to check the connectivity between your machine and a remote server?",
+                    "options": ["grep", "ping", "tail", "sql client"],
+                    "answers": [1]
+                },
+                {
+                    "question": "If you wanted to view the last 50 lines of a log file, which command would be appropriate?",
+                    "options": ["tail", "grep", "nc", "dig"],
+                    "answers": [0]
+                },
+                {
+                    "question": "Which tool can be used to perform a DNS lookup?",
+                    "options": ["nslookup", "curl", "traceroute", "telnet"],
+                    "answers": [0]
+                },
+                {
+                    "question": "To test a TCP connection to a remote server on port 80, which command would be suitable?",
+                    "options": ["nmap", "telnet", "dig", "ss"],
+                    "answers": [1]
+                },
+                {
+                    "question": "Which command helps in capturing and analyzing network traffic on a specific interface?",
+                    "options": ["tcpdump", "ping", "traceroute", "nc"],
+                    "answers": [0]
+                },
+                {
+                    "question": "If you want to search for a specific string within a file, which command would you use?",
+                    "options": ["grep", "tail", "traceroute", "nslookup"],
+                    "answers": [0]
+                },
+                {
+                    "question": "Which tool is primarily used for sending HTTP requests and analyzing responses?",
+                    "options": ["curl", "nc", "ss", "nmap"],
+                    "answers": [0]
+                },
+                {
+                    "question": "To find out which ports are open on a remote server, which command would be most effective?",
+                    "options": ["dig", "nmap", "nslookup", "ping"],
+                    "answers": [1]
+                },
+                {
+                    "question": "Which command provides detailed information about network sockets?",
+                    "options": ["ss", "curl", "telnet", "traceroute"],
+                    "answers": [0]
+                },
+                {
+                    "question": "If you wanted to trace the route packets take to reach a destination, which tool would you use?",
+                    "options": ["traceroute", "ping", "dig", "nc"],
+                    "answers": [0]
+                },
+                {
+                    "question": "Which tool is used to interact with databases using SQL queries?",
+                    "options": ["grep", "sql client", "tcpdump", "nslookup"],
+                    "answers": [1]
+                },
+                {
+                    "question": "To check the mail exchange records of a domain, which command would be suitable?",
+                    "options": ["dig", "ping", "ss", "telnet"],
+                    "answers": [0]
+                },
+                {
+                    "question": "Which tool provides a GUI for sending API requests and viewing responses?",
+                    "options": ["postman", "curl", "nc", "traceroute"],
+                    "answers": [0]
+                },
+                {
+                    "question": "If you wanted to establish a raw TCP connection, which command would you use?",
+                    "options": ["nc", "nmap", "telnet", "dig"],
+                    "answers": [0]
+                },
+                {
+                    "question": "Which command can be used to query the Domain Name System (DNS) and retrieve domain registration information?",
+                    "options": ["nslookup", "ss", "curl", "telnet"],
+                    "answers": [0]
+                },
+                {
+                    "question": "To monitor real-time traffic on a network interface, which tool would you use?",
+                    "options": ["tcpdump", "nmap", "traceroute", "dig"],
+                    "answers": [0]
+                },
+                {
+                    "question": "Which command can be used to test the reachability of a network host?",
+                    "options": ["ping", "grep", "tail", "ss"],
+                    "answers": [0]
+                },
+                {
+                    "question": "If you want to find out the version of a service running on a remote server, which tool would be effective?",
+                    "options": ["nmap", "ping", "traceroute", "curl"],
+                    "answers": [0]
+                },
+                {
+                    "question": "Which command is used to check the route that packets take to reach a specific destination?",
+                    "options": ["traceroute", "dig", "telnet", "ss"],
+                    "answers": [0]
+                },
+                {
+                    "question": "To search for a pattern within multiple files in a directory, which command would you use?",
+                    "options": ["grep", "tail", "nc", "nslookup"],
+                    "answers": [0]
+                },
+                {
+                    "question": "Which tool is used to send data across a network and can also be used for banner grabbing?",
+                    "options": ["nc", "ping", "ss", "traceroute"],
+                    "answers": [0]
+                },
+                {
+                    "question": "If you want to retrieve the content of a webpage from the command line, which command would you use?",
+                    "options": ["curl", "grep", "nmap", "traceroute"],
+                    "answers": [0]
+                },
+                {
+                    "question": "Which command can be used to determine the user's DNS server?",
+                    "options": ["nslookup", "ping", "ss", "curl"],
+                    "answers": [0]
+                },
+                {
+                    "question": "To check the response time of a server, which command would be suitable?",
+                    "options": ["ping", "grep", "tail", "dig"],
+                    "answers": [0]
+                },
+                {
+                    "question": "Which tool can be used to capture and analyze network packets on a specific port?",
+                    "options": ["tcpdump", "traceroute", "nc", "dig"],
+                    "answers": [0]
+                }
+            ]
+            
         
     
